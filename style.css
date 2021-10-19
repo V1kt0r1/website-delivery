@@ -1,3 +1,12 @@
+body{
+    background-image:url(fon/fon1.jpg) ;
+    max-width: 960px;
+    margin: 0 auto;
+    color: seashell;
+}
+.header{
+    background-image: url(fon/fonheader.jpg);
+}
 h1{
     color: rgb(43, 204, 43);
 }

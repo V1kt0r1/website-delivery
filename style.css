@@ -6,6 +6,18 @@ body{
 }
 .header{
     background-image: url(fon/fonheader.jpg);
+   
+}
+.nav-list{
+    margin: 0;
+    padding: 30px;
+}
+.nav-list li{
+    text-align: center;
+    display: inline;
+    margin-right: 0;
+    border: 1px solid rgb(141, 57, 103);
+    padding: 50px;
 }
 h1{
     color: rgb(43, 204, 43);
